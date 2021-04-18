@@ -1,22 +1,22 @@
 @font-face {
     font-family: 'Gilroy';
-    src: url('../font-face/Gilroy-Medium.eot');
-    src: local('Gilroy Medium'), local('Gilroy-Medium'), url('../font-face/Gilroy-Medium.eot?#iefix') format('embedded-opentype'), url('../font-face/Gilroy-Medium.woff2') format('woff2'), url('../font-face/Gilroy-Medium.woff') format('woff'), url('../font-face/Gilroy-Medium.ttf') format('truetype');
+    src: url('../fontface/Gilroy-Medium.eot');
+    src: local('Gilroy Medium'), local('Gilroy-Medium'), url('../fontface/Gilroy-Medium.eot?#iefix') format('embedded-opentype'), url('../fontface/Gilroy-Medium.woff2') format('woff2'), url('../fontface/Gilroy-Medium.woff') format('woff'), url('../fontface/Gilroy-Medium.ttf') format('truetype');
     font-weight: 500;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Gilroy-bold';
-    src: url('../font-face/Gilroy-Semibold.eot');
-    src: local('Gilroy Semibold'), local('Gilroy-Semibold'), url('../font-face/Gilroy-Semibold.eot?#iefix') format('embedded-opentype'), url('../font-face/Gilroy-Semibold.woff2') format('woff2'), url('../font-face/Gilroy-Semibold.woff') format('woff'), url('../font-face/Gilroy-Semibold.ttf') format('truetype');
+    src: url('../fontface/Gilroy-Semibold.eot');
+    src: local('Gilroy Semibold'), local('Gilroy-Semibold'), url('../fontface/Gilroy-Semibold.eot?#iefix') format('embedded-opentype'), url('../fontface/Gilroy-Semibold.woff2') format('woff2'), url('../fontface/Gilroy-Semibold.woff') format('woff'), url('../fontface/Gilroy-Semibold.ttf') format('truetype');
     font-weight: 600;
     font-style: normal;
 }
 
 @font-face {
     font-family: "Nekst-Black";
-    src: url("../font-face/Nekst-Black.otf");
+    src: url("../fontface/Nekst-Black.otf");
     font-weight: 900;
     font-style: normal;
 }
